@@ -3,8 +3,9 @@ Getting and Cleaning Data Course Project
 
 Codebook.
 
-subjects 
-  An identifier of the subject who carried out the experiment. Range is 1 to 30.
+subjects
+An identifier of the subject who carried out the experiment. Range is 1 to 30.
+
 activity_label 
   the activity the subject performed:
   1 WALKING
